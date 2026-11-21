@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<picture><source media="(prefers-reduced-motion: reduce)" srcset="cards/still/monthly.svg"><img src="cards/monthly.svg" width="100%" alt="Monthly contributions, 1 Dec 2025 – 20 Nov 2026. Dec 0, Jan 2, Feb 0, Mar 0, Apr 7, May 34, Jun 32, Jul 30, Aug 145, Sep 273, Oct 126, Nov 61. Current streak 0 days. 72 active days. Busiest day 8 Oct 2026 (55)."></picture>
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="cards/still/monthly.svg"><img src="cards/monthly.svg" width="100%" alt="Monthly contributions, 1 Dec 2025 – 21 Nov 2026. Dec 0, Jan 2, Feb 0, Mar 0, Apr 7, May 34, Jun 32, Jul 30, Aug 145, Sep 273, Oct 126, Nov 62. Current streak 1 days. 73 active days. Busiest day 8 Oct 2026 (55)."></picture>
 </p>
 
 <p align="center">
@@ -36,6 +36,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/here-2007#year-list-container"><picture><source media="(prefers-reduced-motion: reduce)" srcset="cards/still/calendar.svg"><img src="cards/calendar.svg" width="100%" alt="GitHub contribution calendar for here-2007, 16 Nov 2025 – 20 Nov 2026. 710 contributions. Open the public activity."></picture></a>
+<a href="https://github.com/here-2007#year-list-container"><picture><source media="(prefers-reduced-motion: reduce)" srcset="cards/still/calendar.svg"><img src="cards/calendar.svg" width="100%" alt="GitHub contribution calendar for here-2007, 16 Nov 2025 – 21 Nov 2026. 711 contributions. Open the public activity."></picture></a>
 </p>
 <!-- End profile cards -->
